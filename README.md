@@ -8,7 +8,7 @@ json, content is self-explanatory.
 
 # Contact:
 
-Please contact me for any questions.
+Please contact Julien Gori for any questions.
 
 # Use this data:
 
